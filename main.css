@@ -1,0 +1,34 @@
+body{
+    font-family: "Manrope";
+    font-size: 13px;
+    background-color: hsl(210, 46%, 95%);
+
+}
+
+/* body{
+    background-color: hsl(210, 46%, 95%);
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#main-container{
+    width: 80%;
+    display:flex;    
+}
+
+#main-container img{
+    border-left: 50px;
+}
+
+#text{
+    padding: 10px;
+    background: white;
+}
+
+.attribution{
+    position:absolute;
+    bottom: 10px;
+    left: 50%;
+} */
